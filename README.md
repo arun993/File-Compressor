@@ -61,7 +61,7 @@ If image compression is all you need right now, you can skip this step and come 
 ### Step 3: Clone the repository
 
 ```bash
-https://github.com/arun993/File-Compressor.git
+git clone https://github.com/arun993/File-Compressor.git
 cd File-Compressor
 ```
 
