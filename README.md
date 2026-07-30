@@ -61,11 +61,10 @@ If image compression is all you need right now, you can skip this step and come 
 ### Step 3: Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+https://github.com/arun993/File-Compressor.git
+cd File-Compressor
 ```
 
-(Replace `<your-username>/<your-repo-name>` with your actual GitHub path.)
 
 ### Step 4: Create a virtual environment (recommended)
 
