@@ -119,3 +119,4 @@ Issues and pull requests are welcome. Please keep new logic in the appropriate m
 
 ## License
 
+This project is licensed under the MIT License.
