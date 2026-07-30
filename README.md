@@ -119,4 +119,3 @@ Issues and pull requests are welcome. Please keep new logic in the appropriate m
 
 ## License
 
-Add your preferred license here (e.g. MIT).
